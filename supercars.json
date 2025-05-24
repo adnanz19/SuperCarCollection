@@ -1,0 +1,84 @@
+{
+  "result": [
+    {
+      "name": "Ferrari LaFerrari",
+      "brand": "Ferrari",
+      "year": 2015,
+      "engine": "6.3L V12 + Electric Motor",
+      "transmission": "7-speed dual-clutch",
+      "image_url": "https://images.unsplash.com/photo-1628883714122-3b6ffeaf8f65?q=80&w=1950&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "Lamborghini Aventador",
+      "brand": "Lamborghini",
+      "year": 2020,
+      "engine": "6.5L V12",
+      "transmission": "7-speed ISR automated manual",
+      "image_url": "https://images.unsplash.com/photo-1618846042668-eda9c8261189?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YXZlbnRhZG9yfGVufDB8fDB8fHww"
+    },
+    {
+      "name": "McLaren P1",
+      "brand": "McLaren",
+      "year": 2014,
+      "engine": "3.8L Twin-Turbo V8 + Electric Motor",
+      "transmission": "7-speed dual-clutch",
+      "image_url": "https://images.unsplash.com/photo-1516298252535-cf2ac5147f9b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWNsYXJlbiUyMHAxfGVufDB8fDB8fHww"
+    },
+    {
+      "name": "Bugatti Chiron",
+      "brand": "Bugatti",
+      "year": 2018,
+      "engine": "8.0L Quad-Turbo W16",
+      "transmission": "7-speed dual-clutch",
+      "image_url": "https://images.unsplash.com/photo-1610210572585-248996e150fb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGNoaXJvbnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "name": "Porsche 918 Spyder",
+      "brand": "Porsche",
+      "year": 2015,
+      "engine": "4.6L V8 + 2 Electric Motors",
+      "transmission": "7-speed PDK dual-clutch",
+      "image_url": "https://images.unsplash.com/photo-1673900859361-69453f9b3c28?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cG9yc2NoZSUyMDkxOCUyMHNweWRlcnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "name": "Koenigsegg Jesko",
+      "brand": "Koenigsegg",
+      "year": 2021,
+      "engine": "5.0L Twin-Turbo V8",
+      "transmission": "9-speed multi-clutch",
+      "image_url": "https://images.unsplash.com/photo-1724091663890-d84c2abfb28b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGtvZW5pZ3NlZ2clMjBqZXNrb3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "name": "Aston Martin Valkyrie",
+      "brand": "Aston Martin",
+      "year": 2022,
+      "engine": "6.5L V12 Hybrid",
+      "transmission": "7-speed automated manual",
+      "image_url": "https://images.unsplash.com/photo-1709115667750-477f8c010420?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXN0b24lMjBtYXJ0aW4lMjB2YWxreXJpZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "name": "Pagani Huayra",
+      "brand": "Pagani",
+      "year": 2013,
+      "engine": "6.0L Twin-Turbo V12 (AMG)",
+      "transmission": "7-speed sequential",
+      "image_url": "https://images.unsplash.com/photo-1597935526289-3fb74b52e2ae?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGFnYW5pJTIwaHVheXJhfGVufDB8fDB8fHww"
+    },
+    {
+      "name": "Ford GT",
+      "brand": "Ford",
+      "year": 2017,
+      "engine": "3.5L Twin-Turbo V6 EcoBoost",
+      "transmission": "7-speed dual-clutch",
+      "image_url": "https://images.unsplash.com/photo-1551501419-cb31cdd588d6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9yZCUyMGd0fGVufDB8fDB8fHww"
+    },
+    {
+      "name": "Chevrolet Corvette C8 Z06",
+      "brand": "Chevrolet",
+      "year": 2023,
+      "engine": "5.5L Naturally Aspirated V8",
+      "transmission": "8-speed dual-clutch",
+      "image_url": "https://images.unsplash.com/photo-1672151575952-5906a1f085fe?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y29ydmV0dGUlMjBjOHxlbnwwfHwwfHx8MA%3D%3D"
+    }
+  ]
+}
